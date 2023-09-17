@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppDIO</string>
+    <string name="saudacoes_titulo">Bem vindo!</string>
+    <string name="saudacoes_descricao">Não importa o país que você pertença, ou as cores da bandeira que você segue. Todos são bem vindos aqui.</string>
+</resources>

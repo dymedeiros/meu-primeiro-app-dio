@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDIO</string>
+    <string name="saudacoes_titulo">Welcome!</string>
+    <string name="saudacoes_descricao">It doesn\'t matter what country you belong to, or the colors of the flag you follow. Everyone is welcome here.</string>
+</resources>
